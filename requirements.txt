@@ -1,5 +1,0 @@
-pyTelegramBotAPI
-supabase
-plotly
-kaleido
-pandas
