@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+supabase
+plotly
+kaleido
+pandas
+python-dotenv
